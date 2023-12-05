@@ -57,7 +57,7 @@ class _InputPageState extends State<InputPage> {
                     style: kMetinSitili,
                   ),
                   Text(
-                    sporgunu.toString(),
+                    sporgunu.toString(),//s
                     style: kSayiSitili,
                   ),
                   Expanded(
