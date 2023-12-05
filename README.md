@@ -1,4 +1,6 @@
 # yasamsuresi
+Flutter öğrenirken ilk yaptığım uygulamam.Belirli verileri kullanıcıdan alıp algoritmayla yaşam beklentisi yaşı veren bir uygulama. Ben yaparken çok şey öğrendim.
+
 ![Screenshot_20231206_001523 (1)](https://github.com/enesate/yasam_beklentisi_app/assets/77548163/72e0325f-e043-4769-9557-cca42d03ad16)
 
 ## Getting Started
