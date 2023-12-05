@@ -1,6 +1,7 @@
 # yasamsuresi
 
 A new Flutter project.
+![Screenshot_20231206_001523](https://github.com/enesate/yasam_beklentisi_app/assets/77548163/a34670ab-ab12-4f87-83e0-d5ff4a3bbbaa)
 
 ## Getting Started
 
